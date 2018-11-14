@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('currency', []).directive('currency', function () {
+module.exports = function () {
   "ngInject";
 
   String.prototype.splice = function (idx, rem, s) {
@@ -129,4 +129,4 @@ angular.module('currency', []).directive('currency', function () {
       ctrl.$formatters.push(maxValidator);
     }
   };
-});
+};

@@ -1,0 +1,22 @@
+{
+  "name": "AngularCurrencyDirective",
+  "version": "0.0.1",
+  "description": "Improved Angular currency directive",
+  "main": "currency.js",
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "currency.js",
+    "floatingDecimal.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkndrkn/AngularCurrencyDirective.git"
+  },
+  "author": "",
+  "license": ""
+}

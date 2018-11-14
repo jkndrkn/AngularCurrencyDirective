@@ -1,7 +1,5 @@
 'use strict';
 
-import angular from "angular";
-
 angular.module('currency', []).directive('currency', function () {
   "ngInject";
 

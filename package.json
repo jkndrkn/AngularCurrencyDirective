@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Improved Angular currency directive",
   "main": "currency.js",
-  "directories": {
-    "test": "test"
-  },
   "files": [
     "currency.js",
     "floatingDecimal.js"
